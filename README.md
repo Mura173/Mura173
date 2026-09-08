@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Murilo Ângelo from Brazil<br><br>- 🎓 Student / Aspiring Developer  <br>- 💻 Focused on: Java, C#, Android, JavaScript and SQL<br>- 🚀 Currently learning: Java, Android<br>- 🎮 Interested in: Game development, apps, and creative projects</p>
+<p align="left">I'm Murilo Ângelo from Brazil<br><br>- 🎓 Student / Aspiring Developer  <br>- 💻 Focused on: Java, C#, Android, JavaScript and SQL<br>- 🚀 Currently learning: Database, MySQL, PostgreSQL<br>- 🎮 Interested in: Game development, apps, and creative projects</p>
 
 ###
 
